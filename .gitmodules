@@ -1,0 +1,3 @@
+[submodule "gob"]
+	path = gob
+	url = https://github.com/blixt/gob
